@@ -1,2 +1,2 @@
 # leetcode-practice
-The problems I have solve in Leetcode.
+The problems I have solved in Leetcode.
